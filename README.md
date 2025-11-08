@@ -1,0 +1,2 @@
+# AndKot-LottieSample
+Lottie Sample
