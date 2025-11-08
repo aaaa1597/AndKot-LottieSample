@@ -1,5 +1,5 @@
 # AndKot-LottieSample
-Lottie Sample
+[Lottie](https://lottiefiles.com/jp/) Android kotlin Sample
 
 # For more details, check out this blog.
 en: In progress  
