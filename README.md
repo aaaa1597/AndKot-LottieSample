@@ -3,5 +3,5 @@
 
 # For more details, check out this blog.
 en: In progress  
-日本語: [SharedElementTransition(共有要素遷移)のサンプル](In progress)
+日本語: [Lottieってアニメーションアイコンを公開しているサイトがイケてるので試しに動かしてみた](In progress)
 
